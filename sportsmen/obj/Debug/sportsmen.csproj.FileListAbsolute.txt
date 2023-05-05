@@ -1,0 +1,8 @@
+C:\Users\profi\Desktop\sportsmen\bin\Debug\sportsmen.exe.config
+C:\Users\profi\Desktop\sportsmen\bin\Debug\sportsmen.exe
+C:\Users\profi\Desktop\sportsmen\bin\Debug\sportsmen.pdb
+C:\Users\profi\Desktop\sportsmen\obj\Debug\sportsmen.csproj.AssemblyReference.cache
+C:\Users\profi\Desktop\sportsmen\obj\Debug\sportsmen.csproj.SuggestedBindingRedirects.cache
+C:\Users\profi\Desktop\sportsmen\obj\Debug\sportsmen.csproj.CoreCompileInputs.cache
+C:\Users\profi\Desktop\sportsmen\obj\Debug\sportsmen.exe
+C:\Users\profi\Desktop\sportsmen\obj\Debug\sportsmen.pdb
